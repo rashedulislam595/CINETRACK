@@ -1,0 +1,38 @@
+export const initialMovies = [
+  {
+    id: 'm-1',
+    title: 'Inception',
+    genre: 'Sci-Fi',
+    releaseYear: 2010,
+    posterUrl: 'https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&w=900&q=80',
+    watched: true,
+    createdAt: new Date().toISOString(),
+  },
+  {
+    id: 'm-2',
+    title: 'The Dark Knight',
+    genre: 'Action',
+    releaseYear: 2008,
+    posterUrl: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=900&q=80',
+    watched: false,
+    createdAt: new Date().toISOString(),
+  },
+  {
+    id: 'm-3',
+    title: 'Interstellar',
+    genre: 'Adventure',
+    releaseYear: 2014,
+    posterUrl: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=80',
+    watched: false,
+    createdAt: new Date().toISOString(),
+  },
+  {
+    id: 'm-4',
+    title: 'Spirited Away',
+    genre: 'Animation',
+    releaseYear: 2001,
+    posterUrl: 'https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?auto=format&fit=crop&w=900&q=80',
+    watched: true,
+    createdAt: new Date().toISOString(),
+  },
+];
