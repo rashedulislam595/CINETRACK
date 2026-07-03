@@ -57,8 +57,8 @@ Follow these steps to get CineTrack running locally:
 ### 1. Clone or Download the Project
 
 ```bash
-git clone <your-repository-url>
-cd cinetrack
+git clone https://github.com/rashedulislam595/CINETRACK
+cd CINETRACK
 ```
 
 > If you received the project as a ZIP file instead, extract it and `cd` into the extracted folder.
