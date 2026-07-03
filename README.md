@@ -2,6 +2,11 @@
 
 CineTrack is a client-side React.js application for managing a personal movie watchlist. Users can add movies, mark them as watched/unwatched, delete entries, filter by status, and search in real time — all powered by local/mock data with `localStorage` persistence.
 
+## Live Demo
+Vercel: https://cinetrack-pearl.vercel.app/
+
+## GitHub Repository
+https://github.com/rashedulislam595/CINETRACK
 ---
 
 ## 📋 Table of Contents
